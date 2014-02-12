@@ -36,7 +36,7 @@ GNU/Linux system from future rootkits.
 
 Author
 ------
-Philip Schlump
+Orginally written by Philip Schlump
 
 LICENSE
 -------
