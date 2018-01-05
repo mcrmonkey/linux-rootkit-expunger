@@ -1,21 +1,14 @@
 Please note:
 ============
 
-This was forked from pschlump/linux-rootkit-expunger I've not done anything with this for a while.
+This was forked from pschlump/linux-rootkit-expunger and is no longer being maintained 
 
-
-
+--
 
 
 
 linux-rootkit-expunger
 ======================
-
-
-
-
-
-
 
 Linux Rootkit Expunger looks for and can remove a recently found Linux rootkit.
 
